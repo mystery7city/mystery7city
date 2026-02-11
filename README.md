@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20jihoob%kim%20Profile!&fontSize=50)
 
-# 🔍아 무 개 🔎
+# 🔍김지훈  🔎
 
-- 👋안녕하세요. AI 개발자 지원자 아무개 입니다**
-- 🔥컨택을 원하시면 @naver.com으로 연락주세요.
+- 👋안녕하세요. AI 개발자 지원자 김지훈 입니다**
+- 🔥컨택을 원하시면 mystery7city@naver.com 으로 연락주세요.
 
 # 🔗 LINK
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python 기반의 Full-Stack 개발 및 AI 모델링 및 LLM 학습일지와 프로젝트 협업 공간
